@@ -47,7 +47,7 @@ public class EsTest {
         /////
         //aaa
 
-        //xxxx
+        //xxax
 
 
         //关闭es
