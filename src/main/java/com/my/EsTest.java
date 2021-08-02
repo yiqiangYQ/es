@@ -43,7 +43,7 @@ public class EsTest {
         /*AcknowledgedResponse users = esclient.indices().delete(new DeleteIndexRequest("users"), RequestOptions.DEFAULT);
         System.out.println(users.isAcknowledged());*/
 
-
+        //
 
 
         //关闭es
